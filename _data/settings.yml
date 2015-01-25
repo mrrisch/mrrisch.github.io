@@ -1,0 +1,115 @@
+#-------------------------------
+# General Site Settings
+
+title: Stephan Risch
+description: WebDeveloper // Designer // Programmer
+email: stephanrisch@gmx.de
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Web Technologies, url: '#work'}
+- {name: References, url: '#clients'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'This Website is about a guy called Stephan.'
+  rel-author: 'http://stephanrisch.de'
+  rel-publisher: 'http://stephanrisch.de'
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **Stephan is interested in many things.** This website is supposed to tell you a bit about his interests in 
+  programming, design and IT. About three years ago he started to become active in pursuing skills in web technologies. <br/><br/>
+  
+  This led him to found the [Autori Agentur](http://autori-agentur.de) with his dear friends Torsten and Aubry. Under the
+  name of Autori the three have started to implement small projects for companies and private persons. <br/><br/>
+
+  Besides this Stephan is also a student. He finished his Bachelor's degree in 2014 in Media Management and Journalism. 
+  Following his first studies he started his Master studies in Audiovisual Culture and Communication and he will also pursue
+  another Bachelor's degree in Information Science at a distance university. <br/><br/>
+
+  In 2014 his friend Torsten and him also had the funny idea of founding a [Google Developer's Group](https://plus.google.com/116742396737194286716/posts)
+  in Magdeburg. They are still a young and small group who talk about Google web technologies - but you have to start somewhere. 
+
+
+skills:
+- {name: Communication, value: '8'}
+- {name: Organization, value: '7'}
+- {name: Learning, value: '10'}
+- {name: Teaching, value: '6'}
+- {name: Planning, value: '8'}
+- {name: Web Technologies, value: '7'}
+- {name: UX Design, value: '6'}
+- {name: Programming, value: '7'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: HTML5 & CSS3, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: PHP 5, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Ruby on Rails, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: SQL & Databases, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Javascript, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Wordpress, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Prestashop, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: SEO & Online Marketing, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Bootstrap & Zurb Foundation, folder: 'proj-9', file: 'work/proj-9.html'}
+- {name: jQuery & Coffeescript, folder: 'proj-10', file: 'work/proj-10.html'}
+- {name: SASS & Bourbon, folder: 'proj-11', file: 'work/proj-11.html'}
+- {name: Angular & NodeJS, folder: 'proj-12', file: 'work/proj-12.html'}
+
+
+
+
+#-------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'face-aubry.jpg',
+  name: 'Aubry Laschek',
+  title: 'Co-Founder, Autori Agentur',
+  quote: '<p><strong>Stephan is one of the most focused and most driven guys I know.</strong> He likes to learn new things every day - besides that he tries to be the hippest hipster ... which he is not.</p>',
+  logo: 'logo1.png'}
+- {avatar: 'face-torsten.jpg',
+  name: 'Torsten Linnecke',
+  title: 'Organizer, Google Developers Group Magdeburg',
+  quote: '<p><strong>Working with Stephan was the highlight of my career.</strong> Another moment of note was collecting the largest number of paperclips in the office.</p>',
+  logo: 'logo2.png'}
+- {avatar: 'face-sarah.jpg',
+  name: 'Sarah Schulz',
+  title: 'Photographer & Artist',
+  quote: "<p><strong>Yeah, I guess he's good at computers or something,</strong> and I am not just saying that, 'cause he is my boyfriend.</p>",
+  logo: ''}
+
+  
+  
+#-------------------------------
+# Contact Section
+  
+social:
+- {icon: 'twitter', link: 'http://twitter.com/mrrisch'}
+- {icon: 'github', link: 'https://github.com/mrrisch'}
+- {icon: 'facebook', link: 'https://www.facebook.com/stephan.risch.7'}
+- {icon: 'instagram', link: 'http://www.instagram.com/stephanrisch'}
+- {icon: 'linkedin', link: 'http://www.instagram.com/stephanrisch'}
+
+  
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+  
+  
+  
+  
+  
+  
